@@ -1,0 +1,1 @@
+Can we write a file outside of the working tree?
